@@ -43,9 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-This project served as anb introductyion to CSS Grid. It wasit atught me how to lay a page out using a combination of CSS Grid and Flexbox. I also realized I still have a lot to learn when it comes to CSS Grid.  
-
-To see how you can add code snippets, see below:
+This project served as an introduction to CSS Grid. It taught me how to lay a page out using a combination of CSS Grid and Flexbox. I also realized I still have a lot to learn when it comes to CSS Grid.  
 
 ```css
 main {
@@ -65,7 +63,7 @@ main {
 
 ### Continued development
 
-I wanna learn more about CSS Grid, ands gto i nto using gradients and animations in CSS, perhaps adding Bootstrap down the line.
+I wanna learn more about CSS Grid and progress into using gradients and animations in CSS, perhaps adding Bootstrap down the line.
 
 ### Useful resources
 
